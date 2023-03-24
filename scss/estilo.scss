@@ -1,0 +1,17 @@
+@import "header";
+@import "envio";
+@import "producto";
+@import "footer";
+@import "contacto";
+@import "quienes-somos";
+@import "variables";
+
+.fotoInicio{
+  width: 100%;
+}
+.p-d{
+  text-align: center;
+  margin-top: 5%;
+  color: $color-titulo;
+  font-size: 300%;
+}
